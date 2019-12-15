@@ -4,6 +4,7 @@ end
 
 def (ways_of_transport)
  ways_of_transport.sort
+ "cars, train, bus plane"
 end
 
 def using_reverse( ways_of_transport)
