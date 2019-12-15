@@ -8,7 +8,7 @@ end
 
 def using_reverse( ways_of_transport)
 ways_of_transport.using_reverse
-"plane, train, bus, plane"
+"plane, train, bus, cars"
 end
 
 def using_first(ways_of_transport)
